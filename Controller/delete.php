@@ -12,6 +12,6 @@ if (isset($_GET['id'])) {
     }
 }
 
-header("Location: Form.php");
+header("Location:../WEB/View/Form.php");
 exit();
 ?>
